@@ -1,3 +1,39 @@
 <resources>
-    <string name="app_name">ForGitHub</string>
+    <string name="app_name">World Knowledge Quiz</string>
+    <string name="name">What\'s your nickname?</string>
+    <string name="gender">I am:</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="boy">a boy</string>
+    <string name ="girl">a girl</string>
+    <string name = "none">none </string>
+    <string name ="an_E.T"> an E.T</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name= "check">Check!</string>
+    <string name="knowledge_test"> Let\'s test your world knowledge. Are you ready?</string>
+    <string name= "question1">1. Which country\'s population is expected to decline between now and 2050?</string>
+    <string name= "us">U.S</string>
+    <string name= "uk">U.K</string>
+    <string name= "jp">Japan</string>
+    <string name= "gt">Guatemala</string>
+    <string name= "question2">2. Our planet is overshoot. It would take 1.5 earths to sustain our current population.
+        How many earths would it take by 2050 if current resource consumption trends continue?</string>
+    <string name= "number1">1.5</string>
+    <string name= "number2">4</string>
+    <string name= "number3">2</string>
+    <string name= "number4">3</string>
+    <string name= "question3">3. What would world population be by 2100 if the global fertility rate remained at its current rate (2.5 children average)?</string>
+    <string name= "number5">10 B</string>
+    <string name= "number6">15 B</string>
+    <string name= "number7">20 B</string>
+    <string name= "number8">30 B</string>
+    <string name= "question4">4. What can be done to help preserve the environment for future populations?(Select all that apply.)</string>
+    <string name= "number9">Spend water and other resources like there\'s no tomorrow.</string>
+    <string name= "number10">Recycle trash.</string>
+    <string name= "number11">Keep devices plugged all the time.</string>
+    <string name= "number12">Use contraceptive methods.</string>
+    <string name= "number13">Provide education.</string>
+    <string name= "number14">Boycott companies which are not sustainable.</string>
+
+
 </resources>
